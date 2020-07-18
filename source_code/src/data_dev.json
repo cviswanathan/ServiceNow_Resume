@@ -1,20 +1,20 @@
 {
   "personal_details": {
-    "name": "Jane Doe",
-    "role": "Full Stack Developer",
-    "mobile": "+91 9876543210",
-    "email": "janedoe@gmail.com",
-    "location": "Bengaluru",
+    "name": "Chandramouli Viswanathan",
+    "role": "Software Development Engineer III - ServiceNow",
+    "mobile": "+1 720-767-9251",
+    "email": "chandramouli_viswanathan@comcast.net",
+    "location": "Englewood,CO",
     "experience": [
       { "type": "Full Stack Experience on MERN", "years": "4 years" },
       { "type": "Total Experience", "years": "6 years" }
     ],
-    "linkedin": "jane-doe-11",
-    "github": "jane_doe_test_85"
+    "linkedin": "ChandramouliViswanathan",
+    "github": "cviswanathan"
   },
   "summary": {
     "title": "About me",
-    "description": "I have been working with web development since 2010, the period during which I have worked in different environments, from big consultancy companies to start-ups. I am a self-motivated and self-taught professional who likes to solve problems"
+    "description": "I have been working with ITSM ServiceNow/Remedy/Java Microservices development since 2010, the period during which I have worked in different environments, from big consultancy companies to start-ups. I am a self-motivated and self-taught professional who likes to solve problems"
   },
   "career": {
     "title": "Career Objective",
@@ -24,10 +24,10 @@
     "title": "Professional Experience",
     "companyList": [
       {
-        "name": "Dummy Corporation 1",
-        "role": "Senior Software Developer",
-        "years": "Jan 2018 - present",
-        "expYears": "2.5 years",
+        "name": "Comcast Cable Corporation",
+        "role": "Software Development Engineer III - ServiceNow",
+        "years": "July 2018 - present",
+        "expYears": "2.1 years",
         "description": [
           "Use my extensive experience with front end development to <u>define the structure and components</u> for the project, making sure they are reusable",
           "Keep the code quality high reviewing code from other developers and suggesting improvements",

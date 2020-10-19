@@ -1,10 +1,10 @@
 {
   "personal_details": {
-    "name": "John Doe",
-    "role": "Test Engineer",
-    "mobile": "+91 9876543210",
+    "name": "Chandramouli Viswanathan",
+    "role": "Software Developement Engineer III - Servicenow",
+    "mobile": "+1 7207679251",
     "email": "johndoe@gmail.com",
-    "location": "Delhi",
+    "location": "Denver,CO",
     "experience": [
       { "type": "Automation Experience", "years": "4.5 years" },
       { "type": "Total Experience", "years": "8.5 years" }
